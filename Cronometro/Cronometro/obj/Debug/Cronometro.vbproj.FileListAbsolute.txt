@@ -1,0 +1,10 @@
+I:\Mis_Documentos_Daniel\Visual Studio Projects\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+I:\Mis_Documentos_Daniel\Visual Studio Projects\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
+I:\Mis_Documentos_Daniel\Visual Studio Projects\Cronometro\Cronometro\bin\Cronometro.exe
+I:\Mis_Documentos_Daniel\Visual Studio Projects\Cronometro\Cronometro\bin\Cronometro.pdb
+I:\Mis_Documentos_Daniel\Visual Studio Projects\Cronometro\Cronometro\bin\Cronometro.xml
+I:\Mis_Documentos_Daniel\Visual Studio Projects\Cronometro\Cronometro\obj\Debug\ResolveAssemblyReference.cache
+I:\Mis_Documentos_Daniel\Visual Studio Projects\Cronometro\Cronometro\obj\Debug\Cronometro.FrmCronos.resources
+I:\Mis_Documentos_Daniel\Visual Studio Projects\Cronometro\Cronometro\obj\Debug\ResGen.read.1.tlog
+I:\Mis_Documentos_Daniel\Visual Studio Projects\Cronometro\Cronometro\obj\Debug\ResGen.write.1.tlog
+I:\Mis_Documentos_Daniel\Visual Studio Projects\Cronometro\Cronometro\obj\Debug\Cronometro.xml

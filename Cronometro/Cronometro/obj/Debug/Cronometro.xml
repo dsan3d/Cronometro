@@ -1,0 +1,80 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Cronometro
+</name>
+</assembly>
+<members>
+<member name="F:Cronometro.FrmCronos.mouse_offset">
+	<summary>
+ Variable para controlar el movimiento del formulario
+ </summary>
+	<remarks>Variable de tipo de datos de estructura Point, que guarda un punto de un eje de coordenadas XY </remarks>
+</member><member name="M:Cronometro.FrmCronos.Timer1_Tick(System.Object,System.EventArgs)">
+	<summary>
+ Procedimiento de evento. Por cada segundo que pasa actualizamos el reloj del formulario
+ </summary>
+	<param name="sender">parámetro que referencia al objeto Timer que dispara el evento.</param>
+	<param name="e">parámetro que sirve para pasarle argumentos opcionales al procedimiento.</param>
+	<remarks>El parámetro sender es de tipo System.Object y el parámetro e es de tipo System.EventArgs.</remarks>
+</member><member name="M:Cronometro.FrmCronos.CmdComenzar_Click(System.Object,System.EventArgs)">
+	<summary>
+ Procedimiento de evento. Al pulsar el botón CmdComenzar activamos el objeto timer del formulario
+ </summary>
+	<param name="sender">parámetro que referencia al objeto CmdComenzar que dispara el evento Onclick.</param>
+	<param name="e">parámetro que sirve para pasarle argumentos opcionales al procedimiento.</param>
+	<remarks>Al pulsar el botón Comenzar del formulario se dispara el evento Onclick(). El parámetro e es de tipo System.EventArgs
+ y el parámetro sender es de tipo System.Object</remarks>
+</member><member name="M:Cronometro.FrmCronos.CmdReset_Click(System.Object,System.EventArgs)">
+	<summary>
+ Procedimiento de evento. Al pulsar el botón CmdReset ponemos el reloj del formulario a cero.
+ </summary>
+	<param name="sender">parámetro que referencia al objeto CmdReset que dispara el evento Onclick.</param>
+	<param name="e">parámetro que sirve para pasarle argumentos opcionales al procedimiento.</param>
+	<remarks>Al pulsar el botón CmdReset ponemos el reloj del formulario a cero y desactivamos el objeto Timer1 del formulario.
+ <para>El parámetro e es de tipo System.EventArgs. El parámetro sender es de tipo System.Object</para></remarks>
+</member><member name="M:Cronometro.FrmCronos.CmdParar_Click(System.Object,System.EventArgs)">
+	<summary>
+ Procedimiento de evento. Al pulsar el botón CmdParar paramos el reloj
+ </summary>
+	<param name="sender">parámetro que referencia al objeto CmdReset que dispara el evento Onclick.</param>
+	<param name="e">parámetro que sirve para pasarle argumentos opcionales al procedimiento.</param>
+	<remarks>Al pulsar el botón CmdParar paramos el reloj y para ello ejecutamos el método Stop() del objeto Timer del formulario.</remarks>
+</member><member name="M:Cronometro.FrmCronos.CmdCerrar_Click(System.Object,System.EventArgs)">
+	<summary>
+ Procedimiento de evento. Al pulsar el botón CmdCerrar cerramos el formulario
+ </summary>
+	<param name="sender">parámetro que referencia al objeto CmdReset que dispara el evento Onclick.</param>
+	<param name="e">parámetro que sirve para pasarle argumentos opcionales al procedimiento.</param>
+	<remarks>Con este procedimiento se cierra el formulario y al ser el formulario el principal de la aplicación también se finaliza el programa.</remarks>
+</member><member name="M:Cronometro.FrmCronos.FrmCronos_Paint(System.Object,System.Windows.Forms.PaintEventArgs)">
+	<summary>
+ Procedimiento de evento para dibujar el formulario como un círculo
+ </summary>
+	<param name="sender">parámetro que referencia al objeto FrmCronos que dispara el evento OnPaint().</param>
+	<param name="e">parámetro que sirve para pasarle argumentos opcionales al procedimiento.</param>
+	<remarks>Este procedimiento dibuja al formulario en pantalla con forma circular y usamos una imagen de la esfera de un reloj.</remarks>
+</member><member name="M:Cronometro.FrmCronos.FrmCronos_MouseDown(System.Object,System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ Procedimiento de evento que sirve para controlar el movimiento del formulario
+ </summary>
+	<param name="sender">parámetro que referencia al objeto FrmCronos que dispara el evento OnMouseDown().</param>
+	<param name="e">parámetro que sirve para pasarle argumentos opcionales al procedimiento.</param>
+	<remarks>Este procedimiento se ejecuta cuando pulsamos con el ratón sobre el formulario. 
+ <para>Capturamos la posición del ratón en el eje de coordenadas XY. Se guarda en el campo <see>mouse_offset</see>.</para></remarks>
+</member><member name="M:Cronometro.FrmCronos.FrmCronos_MouseMove(System.Object,System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ Procedimiento de evento que sirve para controlar el movimiento del formulario.
+ </summary>
+	<param name="sender">parámetro que referencia al objeto FrmCronos que dispara el evento OnMouseMove().</param>
+	<param name="e">parámetro que sirve para pasarle argumentos opcionales al procedimiento.</param>
+	<remarks>Al mover el ratón arrastramos el formulario por la pantalla.</remarks>
+</member><member name="T:Cronometro.FrmCronos">
+	<summary>
+ Formulario Windows Form principal de la aplicación.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

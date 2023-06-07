@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Cronometro">
+</Property><Property Name="Archivo de la solución" Value="I:\Mis_Documentos_Daniel\Visual Studio Projects\Cronometro\Cronometro.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="I:\Mis_Documentos_Daniel\Visual Studio Projects\Cronometro\Cronometro.suo">
+</Property><Property Name="Date" Value="martes, 22 de febrero de 2011">
+</Property><Property Name="Time" Value="15:17">
+</Property><Property Name="Número de registro" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Cronometro.sln" Description="La copia I:\Mis_Documentos_Daniel\Visual Studio Projects\Cronometro\Backup1\Cronometro.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="Cronometro.suo" Description="La copia I:\Mis_Documentos_Daniel\Visual Studio Projects\Cronometro\Backup1\Cronometro.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="Cronometro" Source="Cronometro\Cronometro.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto I:\Mis_Documentos_Daniel\Visual Studio Projects\Cronometro\Backup1\Cronometro\Cronometro.vbproj">
+</Event><Event ErrorLevel="0" Project="Cronometro" Source="Cronometro\Cronometro.vbproj.user" Description="La copia de seguridad I:\Mis_Documentos_Daniel\Visual Studio Projects\Cronometro\Backup1\Cronometro\Cronometro.vbproj.user del archivo se ha creado correctamente">
+</Event><Event ErrorLevel="0" Project="Cronometro" Source="Cronometro\AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo I:\Mis_Documentos_Daniel\Visual Studio Projects\Cronometro\Backup1\Cronometro\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Cronometro" Source="Cronometro\Form1.vb" Description="Se realizó correctamente la copia de seguridad del archivo I:\Mis_Documentos_Daniel\Visual Studio Projects\Cronometro\Backup1\Cronometro\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Cronometro" Source="Cronometro\Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo I:\Mis_Documentos_Daniel\Visual Studio Projects\Cronometro\Backup1\Cronometro\Form1.resx">
+</Event><Event ErrorLevel="1" Project="Cronometro" Source="Cronometro\Cronometro.vbproj" Description="La versión de destino de su proyecto es .NET Framework 2.0 ó 3.0. Si el proyecto utiliza ensamblados que requieren una versión más reciente de .NET Framework, no se podrá compilar. Puede cambiar la versión de .NET Framework haciendo clic en Propiedades en el menú del proyecto y seleccionando una nueva versión en el cuadro desplegable '.NET Framework'. (En Visual Basic, haga clic en el botón 'Opciones avanzadas del compilador...' en la pestaña Compilar).">
+</Event><Event ErrorLevel="0" Project="Cronometro" Source="Cronometro\Cronometro.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Cronometro" Source="Cronometro\Cronometro.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Cronometro.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Cronometro.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Cronometro" Source="Cronometro\Cronometro.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

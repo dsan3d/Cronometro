@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Cronometro">
+</Property><Property Name="Archivo de la solución" Value="F:\Mis Documentos_Daniel\Visual Studio Projects\Cronometro\Cronometro.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="F:\Mis Documentos_Daniel\Visual Studio Projects\Cronometro\Cronometro.suo">
+</Property><Property Name="Date" Value="sábado, 20 de noviembre de 2010">
+</Property><Property Name="Time" Value="20:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Cronometro.sln" Description="La copia F:\Mis Documentos_Daniel\Visual Studio Projects\Cronometro\Backup\Cronometro.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="Cronometro.suo" Description="La copia F:\Mis Documentos_Daniel\Visual Studio Projects\Cronometro\Backup\Cronometro.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="Cronometro" Source="Cronometro\Cronometro.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto F:\Mis Documentos_Daniel\Visual Studio Projects\Cronometro\Backup\Cronometro\Cronometro.vbproj">
+</Event><Event ErrorLevel="0" Project="Cronometro" Source="Cronometro\Cronometro.vbproj.user" Description="La copia de seguridad F:\Mis Documentos_Daniel\Visual Studio Projects\Cronometro\Backup\Cronometro\Cronometro.vbproj.user del archivo se ha creado correctamente">
+</Event><Event ErrorLevel="0" Project="Cronometro" Source="Cronometro\AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\Mis Documentos_Daniel\Visual Studio Projects\Cronometro\Backup\Cronometro\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Cronometro" Source="Cronometro\Form1.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\Mis Documentos_Daniel\Visual Studio Projects\Cronometro\Backup\Cronometro\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Cronometro" Source="Cronometro\Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo F:\Mis Documentos_Daniel\Visual Studio Projects\Cronometro\Backup\Cronometro\Form1.resx">
+</Event><Event ErrorLevel="2" Project="Cronometro" Source="Cronometro\Cronometro.vbproj" Description="No se puede guardar el archivo de proyecto convertido.">
+</Event><Event ErrorLevel="3" Project="Cronometro" Source="Cronometro\Cronometro.vbproj" Description="No convertido">
+</Event><Event ErrorLevel="0" Project="" Source="Cronometro.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Cronometro.sln" Description="Converted">
+</Event></UpgradeLog>
